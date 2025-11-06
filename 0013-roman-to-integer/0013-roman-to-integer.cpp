@@ -39,7 +39,7 @@ public:
                     i++;
                 }
                 else{
-                    count+=1000;
+                    count+=100;
                 }
             }
             else if(s[i]=='V'){
@@ -55,7 +55,7 @@ public:
                 count+=1000;
             }
 
-            
+            cout<<count<<endl;
 
 
         }
