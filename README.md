@@ -36,4 +36,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0037-sudoku-solver/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
