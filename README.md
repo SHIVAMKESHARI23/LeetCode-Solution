@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0394-decode-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0394-decode-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,9 @@
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0394-decode-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0394-decode-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
