@@ -59,8 +59,13 @@
 | [0071-simplify-path](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0394-decode-string/) | Medium |
+| [0796-rotate-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0796-rotate-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0394-decode-string/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
