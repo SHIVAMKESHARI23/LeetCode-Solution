@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0169-majority-element](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0796-rotate-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
