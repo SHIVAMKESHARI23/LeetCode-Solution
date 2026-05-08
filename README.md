@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0169-majority-element](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0283-move-zeroes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -27,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Counting
@@ -64,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0071-simplify-path/) | Medium |
+| [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0394-decode-string/) | Medium |
 | [0796-rotate-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0796-rotate-string/) | Easy |
@@ -95,5 +98,6 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
