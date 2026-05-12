@@ -40,6 +40,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0394-decode-string/) | Medium |
 | [0796-rotate-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0796-rotate-string/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@
 | ------- | ------- |
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 <!---LeetCode Topics End-->
