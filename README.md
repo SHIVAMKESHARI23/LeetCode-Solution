@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +112,24 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
