@@ -77,6 +77,7 @@
 | [0394-decode-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0394-decode-string/) | Medium |
 | [0796-rotate-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0796-rotate-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 ## Tree
