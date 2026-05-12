@@ -14,6 +14,7 @@
 | [1200-minimum-absolute-difference](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
+| [3219-minimum-cost-for-cutting-cake-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
+| [3219-minimum-cost-for-cutting-cake-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,5 @@
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
+| [3219-minimum-cost-for-cutting-cake-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 <!---LeetCode Topics End-->
