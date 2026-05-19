@@ -7,6 +7,7 @@
 | [0037-sudoku-solver](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0051-n-queens/) | Hard |
+| [0059-spiral-matrix-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0169-majority-element](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0283-move-zeroes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
@@ -52,6 +53,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0059-spiral-matrix-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +136,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
