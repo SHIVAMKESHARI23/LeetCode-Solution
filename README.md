@@ -12,6 +12,7 @@
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0283-move-zeroes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0994-rotting-oranges](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
@@ -54,6 +55,7 @@
 | [0037-sudoku-solver](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0994-rotting-oranges](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0994-rotting-oranges/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +142,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
