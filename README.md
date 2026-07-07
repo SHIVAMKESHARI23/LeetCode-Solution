@@ -75,6 +75,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0071-simplify-path](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -89,6 +90,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0796-rotate-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
