@@ -14,6 +14,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0994-rotting-oranges](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
@@ -23,6 +24,7 @@
 | [0037-sudoku-solver](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0169-majority-element](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -35,6 +37,7 @@
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 ## Counting
