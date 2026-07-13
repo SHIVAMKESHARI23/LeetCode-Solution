@@ -155,4 +155,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0994-rotting-oranges/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
