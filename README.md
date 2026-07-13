@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0037-sudoku-solver/) | Hard |
+| [0045-jump-game-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -113,11 +114,13 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
