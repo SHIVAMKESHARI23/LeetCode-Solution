@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0994-rotting-oranges](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0994-rotting-oranges/) | Medium |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -166,4 +169,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
