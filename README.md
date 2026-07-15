@@ -11,6 +11,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0169-majority-element](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
+| [0204-count-primes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0994-rotting-oranges](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0994-rotting-oranges/) | Medium |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
+| [0204-count-primes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,5 +160,10 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1291-sequential-digits/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
