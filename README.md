@@ -18,6 +18,7 @@
 | [0994-rotting-oranges](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0204-count-primes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
