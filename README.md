@@ -163,6 +163,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0994-rotting-oranges/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -186,4 +187,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SHIVAMKESHARI23/LeetCode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
